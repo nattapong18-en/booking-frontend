@@ -41,7 +41,7 @@
 
 </script>
 
-<h1>🔐 ล็อคอิน</h1>
+<h1>ล็อคอิน</h1>
 <input type="text" placeholder="Username" bind:value={username}>
 <input type="password" placeholder="Password" bind:value={password}>
 
